@@ -1,16 +1,17 @@
-## Hi there 👋
+# SeJun An 😉  
 
-<!--
-**SeJunAn/SeJunAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who Am I  
+- 🌱 I’m currently learning **Python, AWS, Docker**  
+- 🖥️ I am majoring in **Computer Science**  
+- 🚅 My hometown is **Suncheon, Jeollanam-do, Korea**  
 
-Here are some ideas to get you started:
+### Experience  
+- 🎓 **Soonchunhyang University**, Department of Computer Science and Engineering (2021.03~ )  
+- 👨‍💻 **Completed** the **Data Explorer Program (3rd cohort)** at **EuclidSoft ABC Bootcamp**  
+- 🏆 **3rd Place** in the **ABC Bootcamp Final Presentation**  
+- 🥈 **2nd Place** in the **Medical Data Analysis Competition** at Soonchunhyang University  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Like  
+- 📺 Watching **dramas**  
+- 🎮 Playing **games**  
+- 🍕 Eating **pizza**  
