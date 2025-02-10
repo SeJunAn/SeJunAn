@@ -7,7 +7,7 @@
 
 ### Experience  
 - 🎓 **Soonchunhyang University**, Department of Computer Science and Engineering (2021.03~ )  
-- 👨‍💻 **Completed** the **Data Explorer Program (3rd cohort)** at **EuclidSoft ABC Bootcamp**  
+- 👨‍💻 **Completed** the **Data Explorer Program** at **EuclidSoft ABC Bootcamp**  
 - 🏆 **3rd Place** in the **ABC Bootcamp Final Presentation**  
 - 🥈 **2nd Place** in the **Medical Data Analysis Competition** at Soonchunhyang University  
 
