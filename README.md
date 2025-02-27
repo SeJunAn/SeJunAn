@@ -12,6 +12,6 @@
 - 🥈 **2nd Place** in the **Medical Data Analysis Competition** at Soonchunhyang University (2024)
 
 ### What I Like  
-- 📺 Watching **dramas**  
+- 📺 Watching **Movie**  
 - 🎮 Playing **games**  
 - 🍕 Eating **pizza**  
