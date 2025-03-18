@@ -1,7 +1,7 @@
 # SeJun An 😉  
 
 ### Who Am I  
-- 🌱 I’m currently learning **Python, AWS, Docker**  
+- 🌱 I’m currently learning **Python, Flask, Docker**  
 - 🖥️ I am majoring in **Computer Science**  
 - 🚅 My hometown is **Suncheon, Jeollanam-do, Korea**  
 
