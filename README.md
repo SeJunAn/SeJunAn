@@ -49,5 +49,6 @@
 
 | 연도 | 프로젝트/수상 | 레포지토리 |
 |------|----------------|------------|
+| 2025 | **순천향대 공과대학 학술제 (동상)** | [프로젝트 레포](--) |
 | 2024 | **의료데이터 분석대회 최우수상 (2등)** | [프로젝트 레포](https://github.com/SeJunAn/Medical-Data-Analysis-Competition) |
 | 2024 | **유클리드소프트 부트캠프 우수상 (3등)** | [프로젝트 레포](https://github.com/SeJunAn/-ABC-Bootcamp-Final-Presentation) |
