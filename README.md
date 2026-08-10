@@ -14,9 +14,9 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science Engineering @ Soonchunhyang University
-* ☁️ Interested in **Cloud Infrastructure, Kubernetes, DevOps**
-* 🐍 Mainly using **Python**
+* 🎓 Computer Science & Engineering Student at **Soonchunhyang University**
+* ☁️ Interested in **Cloud Infrastructure, Kubernetes, & DevOps**
+* 🐍 Core Programming Language: **Python**
 
 ---
 
@@ -38,39 +38,38 @@
 
 ## 💼 Experience
 
-| Period                | Experience                                       |
-| --------------------- | ------------------------------------------------ |
-| **2026.07 ~ 2027.02** | **Cloud Managed Services Provider (MSP)** Intern |
+| Period | Organization / Role | Description |
+| :--- | :--- | :--- |
+| **2026.07 ~ 2027.02** | **Cloud MSP Intern** | Cloud Managed Services Provider |
 
 ---
 
 ## 🎓 Education
 
-| Period                | Education                                      |
-| --------------------- | ---------------------------------------------- |
-| **2021.03 ~ 2027.02** | Soonchunhyang University, Computer Engineering |
+| Period | Institution | Degree / Major |
+| :--- | :--- | :--- |
+| **2021.03 ~ 2027.02** | **Soonchunhyang University** | Computer Science & Engineering |
+
+---
 
 ## 👨‍🔬 Research
 
-| Period                | Laboratory                                             |
-| --------------------- | ------------------------------------------------------ |
-| **2025.01 ~ 2026.07** | Image Processing Laboratory (Undergraduate Researcher) |
+| Period | Laboratory | Role |
+| :--- | :--- | :--- |
+| **2025.01 ~ 2026.07** | **Image Processing Laboratory** | Undergraduate Researcher |
 
 ---
 
-## 🏆 Awards
+## 🏆 Honors & Awards
 
-🥉 **Bronze Prize** — Soonchunhyang University Engineering Academic Festival *(2025)*
-
-🥈 **Excellent Prize (2nd Place)** — Medical Data Analysis Competition *(2024)*
-
-🥉 **Outstanding Prize (3rd Place)** — EuclidSoft Bootcamp *(2024)*
+* 🥈 **2nd Place** — Medical Data Analysis Competition *(2024)*
+* 🥉 **3rd Place** — Soonchunhyang Univ. Engineering Academic Festival *(2025)*
+* 🥉 **3rd Place** — EuclidSoft Bootcamp *(2024)*
+* 🔥 **Finalist** — kakao × goormthon Univ *(2025)*
 
 ---
 
-## 🚀 Activities
+## 🚀 Activities & Bootcamps
 
-* **kakao × goorm Univ** — Soonchunhyang University PM & Finalist *(2025)*
-* **EuclidSoft Bootcamp** — Data Explorer Program *(2024)*
-
-
+* ☁️ **kakao × goormthon Univ 3기** — Soonchunhyang Univ. PM *(2025)*
+* 📊 **EuclidSoft Bootcamp** — Data Explorer Program *(2024)*
